@@ -1,5 +1,3 @@
-// Continue from this Vídeo: https://youtu.be/DhI62V2iOBM?list=PL9ueu6QbfMC3SYOBOkDHed09gnsGlhfVl
-
 #include <stdio.h>            
 #include <stdlib.h>           
 #include <string.h>           
