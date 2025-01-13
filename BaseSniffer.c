@@ -63,7 +63,7 @@ int main(){
             
         }else {
         
-            unsigned char *p = packet_buffer;
+            
             
 
             printf("\n----------------------------- Ethernet Header\n");    
