@@ -1,2 +1,2 @@
 # RawSockets-PI
-A study to create sniffers using raw sockets in C
+A study to create a sniffer using raw sockets in C
