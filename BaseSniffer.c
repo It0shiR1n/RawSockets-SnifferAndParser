@@ -62,10 +62,6 @@ int main(){
             exit(-1);
             
         }else {
-        
-            
-            
-
             printf("\n----------------------------- Ethernet Header\n");    
             parseETH(packet_buffer);
         
